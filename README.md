@@ -15,7 +15,7 @@ axes[0].set_ylim(0, 1)
 axes[0].set_title('دایره')
 axes[0].set_aspect('equal')
 axes[0].axis('off')
-
+axes==1;
 # رسم مثلث
 triangle = plt.Polygon(((0.5, 1), (0, 0), (1, 0)), color='lightgreen', ec='black')
 axes[1].add_artist(triangle)
