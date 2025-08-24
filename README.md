@@ -8,7 +8,7 @@ fig, axes = plt.subplots(1, 5, figsize=(15, 3))
 axes=axes
 
 # رسم دایره
-circle = plt.Circle((0.5, 0.5), 0.3, color='skyblue', ec='black')
+ccircle = plt.Circle((0.5, 0.5), 0.3, color='skyblue', ec='black')
 axes[0].add_artist(circle)
 axes[0].set_xlim(0, 1)
 axes[0].set_ylim(0, 1)
