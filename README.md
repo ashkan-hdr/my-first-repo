@@ -5,6 +5,7 @@ import numpy as np
 
 # تنظیمات اولیه
 fig, axes = plt.subplots(1, 5, figsize=(15, 3))
+axes=axes
 
 # رسم دایره
 circle = plt.Circle((0.5, 0.5), 0.3, color='skyblue', ec='black')
