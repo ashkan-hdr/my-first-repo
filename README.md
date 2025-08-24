@@ -54,7 +54,7 @@ axes[4].set_ylim(0, 1)
 axes[4].set_title('پنج‌ضلعی')
 axes[4].set_aspect('equal')
 axes[4].axis('off')
-
+print
 # نمایش شکل‌ها
 plt.tight_layout()
 plt.show()
