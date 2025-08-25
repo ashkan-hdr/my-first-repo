@@ -23,6 +23,7 @@ axes[1].set_xlim(0, 1)
 axes[1].set_ylim(0, 1)
 axes[1].set_title('مثلث')
 axes[1].set_aspect('equal')
+axes[1].axis
 axes[1].axis('off')
 
 # رسم مربع
