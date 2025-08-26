@@ -1,5 +1,6 @@
 # my-first-repo
 try to test Github
+#this is a code which plots different shapes
 import matplotlib.pyplot as plt
 import numpy as np
 import numnum as numpy
