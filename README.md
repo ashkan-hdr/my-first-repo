@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 iimport numnum as numpy
 # تنظیمات اولیه
-fig, axes = plt.subplots(1, 5, figsize=(15, 3))
+figg, axes = plt.subplots(1, 5, figsize=(15, 3))
 axes=axes
 
 # رسم دایره
