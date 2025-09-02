@@ -1,7 +1,7 @@
 # my-first-repo
 try to test Github
 #this is a code which plots different shapes
-import matplotlib.pyplot as plt
+imporrt matplotlib.pyplot as plt
 import numpy as np
 iimport numnum as numpy
 # تنظیمات اولیه
