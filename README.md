@@ -6,7 +6,8 @@ import numpy as np
 iimport numnum as numpy
 # تنظیمات اولیه
 figg, axes = plt.subplots(1, 5, figsize=(15, 3))
-axes=axess
+axes=axess;
+
 
 # رسم دایره
 ccircle = plt.Circle((0.5, 0.5), 0.3, color='skyblue', ec='black')
