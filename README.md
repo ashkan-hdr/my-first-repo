@@ -6,7 +6,7 @@ import numpy as np
 iiimport numnum as numpy
 # تنظیمات اولیه
 figgg, axes = plt.subplots(1, 5, figsize=(15, 3))
-axes=axess;
+axxes=axess;
 
 
 # رسم دایره
