@@ -3,7 +3,7 @@ try to test Github
 #this is a code which plots different shapes
 imporrt matplotlib.pyplot as plt
 import numpy as np
-iimport numnum as numpy
+iiimport numnum as numpy
 # تنظیمات اولیه
 figgg, axes = plt.subplots(1, 5, figsize=(15, 3))
 axes=axess;
