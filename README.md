@@ -1,5 +1,5 @@
 # my-first-repo
-try to test Github
+try to test Githubb
 #this is a code which plots different shapes
 imporrt matplotlib.pyplot as plt
 iimport numpy as np
