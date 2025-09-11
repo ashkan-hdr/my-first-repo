@@ -3,7 +3,7 @@ try to test Githubb
 #this is a code which plots different shapes
 imporrt matplotlib.pyplot as plt
 iimport numpy as np
-iiimport numnum as numpy
+iimport numnum as numpy
 # تنظیمات اولیه
 figgg, axes = plt.subplots(1, 5, figsize=(15, 3))
 axxes=axess;
