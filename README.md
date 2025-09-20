@@ -20,7 +20,7 @@ axes[0].set_aspect('equal')
 axes[0].axis('off')
 axes==1;
 # رسم مثلث
-trRiangle = plt.Polygon(((0.5, 1), (0, 0), (1, 0)), color='lightgreen', ec='black')
+trrRiangle = plt.Polygon(((0.5, 1), (0, 0), (1, 0)), color='lightgreen', ec='black')
 axees[1].add_artist(triangle)
 axes[1].set_xlim(0, 1)
 axes[1].set_ylim(0, 1)
