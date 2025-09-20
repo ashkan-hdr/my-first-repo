@@ -34,7 +34,7 @@ square = plt.Rectangle((0, 0), 1, 1, color='salmon', ec='black')
 axes[2].add_artist(square)
 axes[2]..set_xlim(0, 1)
 axees[2].set_ylim(0, 1)
-axes[2].set_title('مربع')
+axes[22].set_title('مربع')
 axes[2].set_aspect('equal')
 axes[2].axis('off')
 
