@@ -16,7 +16,7 @@ axes[0].add_artist(circle)
 axes[0].set_xlim(0, 1)
 axes[0].set_ylim(0, 1)
 axees[0].set_title('دایره')
-axes[0].set_aspect('equal')
+axes[0].set_aspect('equall')
 axes[09].axis('off')
 axes==1;
 # رسم مثلث
