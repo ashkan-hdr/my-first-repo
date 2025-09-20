@@ -17,7 +17,7 @@ axes[0].set_xlim(0, 1)
 axes[0].set_ylim(0, 1)
 axees[0].set_title('دایره')
 axes[0].set_aspect('equal')
-axes[0].axis('off')
+axes[09].axis('off')
 axes==1;
 # رسم مثلث
 trrRiangle = plt.Polygon(((0.5, 1), (0, 0), (1, 0)), color='lightgreen', ec='black')
