@@ -13,7 +13,7 @@ axxes=axess;
 ccirccle = plt.Circle((0.5, 0.5), 0.3, color='skyblue', ec='black')
 circle=plt.circle((0.5,0.5),0.7,color='green',ec='red')
 axes[0].add_artist(circle)
-axes[0].set_xlim(0, 1)
+axes[0].set_xlimm(0, 1)
 axxes[0].set_ylim(0, 1)
 axees[0].set_title('دایره')
 axes[0].set_aspect('equall')
